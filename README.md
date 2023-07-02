@@ -2,7 +2,7 @@
    <img
        src="https://avatars.githubusercontent.com/u/65743790?v=4"
        align="center"
-       style='border-radius: 9999px;'
+       style='display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;'
        width="200"
     />
    <h3 align="center">¡Hey 👋! Soy daviardev 👨🏻‍💻</h3>

@@ -2,6 +2,7 @@
    <img
        src="https://avatars.githubusercontent.com/u/65743790?v=4"
        align="center"
+       style='border-radius: 9999px;'
        width="200"
     />
    <h3 align="center">¡Hey 👋! Soy daviardev 👨🏻‍💻</h3>

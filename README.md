@@ -1,7 +1,13 @@
-<h1 align="center">Hola 👋, Soy Jerson David Silva Arjona</h1>
-<h3 align="center">Soy un Programador Web, Programador de videojuegos con Unity y programador de aplicaciones móviles.
-  Me Apasiona la programación en todos sus aspectos, pero me especializo al lado del cliente, usando Framework y librerías de JavaScript como Next.js y React.js.
-  Me gusta ayudar a los demás, seguir aprendiendo y no parar de aprender.
+<p align="center" width="300">
+   <img
+       src="https://avatars.githubusercontent.com/u/65743790?v=4"
+       align="center"
+       width="200"
+    />
+   <h3 align="center">¡Hey 👋! Soy daviardev 👨🏻‍💻</h3>
+</p>
+
+<h3 align="center">Soy un Programador Web, me Apasiona la programación en todos sus aspectos, pero me especializo al lado del cliente, usando Framework y librerías de JavaScript como Next.js y React.js. Me gusta ayudar a los demás, seguir aprendiendo y no parar de aprender.
 </h3>
 
 ### Me defino como
@@ -24,8 +30,7 @@ const DaviarDev = () => {
 
     'SENA - Técnico en Programación de Software',
 
-    'ITSA - Técnico Profesional en Mantenimiento de Sistemas Informáticos,
-
+    'ITSA - Técnico Profesional en Mantenimiento de Sistemas Informáticos'
   ]
 
   let hobbies = [
@@ -37,10 +42,9 @@ const DaviarDev = () => {
     'Ver anime'
 
     'Escuchar música'
-
   ]
 
-  let location = 'Barranquilla, Colombia'
+  let location = 'Colombia'
 
 }
 

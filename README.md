@@ -1,11 +1,5 @@
 <p align="center" width="300">
-   <img
-       src="https://avatars.githubusercontent.com/u/65743790?v=4"
-       align="center"
-       style='display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;'
-       width="200"
-    />
-   <h3 align="center">¡Hey 👋! Soy daviardev 👨🏻‍💻</h3>
+   <h1 align="center">¡Hey 👋! Soy daviardev 👨🏻‍💻</h1>
 </p>
 
 <h3 align="center">Soy un Programador Web, me Apasiona la programación en todos sus aspectos, pero me especializo al lado del cliente, usando Framework y librerías de JavaScript como Next.js y React.js. Me gusta ayudar a los demás, seguir aprendiendo y no parar de aprender.

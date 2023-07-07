@@ -5,6 +5,16 @@
 <h3 align="center">Soy un Programador Web, me Apasiona la programación en todos sus aspectos, pero me especializo al lado del cliente, usando Framework y librerías de JavaScript como Next.js y React.js. Me gusta ayudar a los demás, seguir aprendiendo y no parar de aprender.
 </h3>
 
+<div align="center">
+<a href="https://app.daily.dev/daviardev">
+   <img
+      src="https://api.daily.dev/devcards/6c558b2d24664d41a3420ed37f63cbc3.png?r=gob"
+      alt="daviardev's Dev Card"
+      width="400"
+   />
+</a>
+</div>
+
 ### Me defino como
 
 ```js

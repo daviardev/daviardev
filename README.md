@@ -2,30 +2,11 @@
    <h1 align="center">¡Hey 👋! Soy daviardev 👨🏻‍💻</h1>
 </p>
 
-<h3 align="center">Soy un Programador Web, me Apasiona la programación en todos sus aspectos, pero me especializo al lado del cliente, usando Framework y librerías de JavaScript como Next.js y React.js. Me gusta ayudar a los demás, seguir aprendiendo y no parar de aprender.
-</h3>
-
-<div align="center">
-<a href="https://app.daily.dev/daviardev">
-   <img
-      src="https://api.daily.dev/devcards/6c558b2d24664d41a3420ed37f63cbc3.png?r=gob"
-      alt="daviardev's Dev Card"
-      width="400"
-   />
-</a>
-</div>
-
-### Me defino como
+<h3 align="center">Desarrollador Web con más de 3 años de experiencia en front-end y back-end, utilizando tecnologías como React.js, Next.js, Astro, Firebase, y Tailwind CSS. Apasionado por crear soluciones creativas e interactivas, enfocado en la optimización del rendimiento y la experiencia del usuario.</h3>@ppp
 
 ```js
 
-const DaviarDev = () => {
-
-  let name = 'Jerson David Silva Arjona'
-
-  let birth = '1999-06-08'
-
-  let work = 'Web Programmer'
+const About = () => {
 
   let education = [
 
@@ -35,7 +16,8 @@ const DaviarDev = () => {
 
     'SENA - Técnico en Programación de Software',
 
-    'ITSA - Técnico Profesional en Mantenimiento de Sistemas Informáticos'
+    'ITSA - Técnico Profesional en Mantenimiento de Sistemas Informáticos',
+'
   ]
 
   let hobbies = [

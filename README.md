@@ -10,11 +10,13 @@ const About = () => {
 
   let work_experience = [
    {
-      Estudiante en práctica en el área de T.I, tuve responsabilidades de soporte técnico, atención al cliente, limpieza de equipos, mantenimiento preventivo, recuperacion         de datos en computadoras, solucion a problemas de software, entre otras tareas que realizaba.
+   '
+       Estudiante en práctica en el área de T.I, tuve responsabilidades de soporte técnico, atención al cliente, limpieza de equipos, mantenimiento preventivo, recuperacion         de datos en computadoras, solucion a problemas de software, entre otras tareas que realizaba.
 
       Dentro del área, siempre hubo un ambiente respetuoso, saludable y lleno de alegria, era algo que me impulsaba cada día.
 
       ● Junto al equipo de T.I, desarrollamos una guía de uso de la VPN que se usaría dentro de la empresa, haciendo de la guía de fácil lectura y comprensión.
+   '
    }
   ]
 
